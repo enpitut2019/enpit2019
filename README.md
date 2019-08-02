@@ -39,7 +39,7 @@
   * プロダクト： 
 * 人（ぬるんちゅ）
   * レポジトリ： https://github.com/enpitut2019/NullTalk
-  * プロダクト：
+  * プロダクト： https://nulltalk.herokuapp.com/
 * 面研IoT
   * レポジトリ： https://github.com/enpitut2019/Omote-IoT
   * プロダクト： 
