@@ -1,44 +1,48 @@
 # enpit2019
 
 * どんぐり
-  * レポジトリ：
-  * プロダクト：
+  * レポジトリ： https://github.com/enpitut2019/churing
+  * プロダクト： 
 * 優作
-  * レポジトリ：
+  * レポジトリ： 
   * プロダクト：
 * アリになりたいキリギリス
-  * レポジトリ：
+  * レポジトリ： https://github.com/enpitut2019/enpit-grasshopper2
   * プロダクト：
 * タピオカオムライス
-  * レポジトリ：
-  * プロダクト：
+  * レポジトリ： https://github.com/enpitut2019/tapioca-omerice
+  * プロダクト： https://tapiome.herokuapp.com
 * 茶葉のあまみ
-  * レポジトリ：
-  * プロダクト：
+  * レポジトリ： https://github.com/enpitut2019/task-cabinet
+  * プロダクト： https://enpitut2019.github.io/task-cabinet
 * 優柔不団
-  * レポジトリ：
+  * レポジトリ： 
   * プロダクト：
 * 鳥貴族
-  * レポジトリ：
-  * プロダクト：
+  * レポジトリ： https://github.com/enpitut2019/shlack
+  * プロダクト： 
 * 雨ニモ負ケs
-  * レポジトリ：
+  * レポジトリ： https://github.com/Arpedia/enPiT-Funbrella
   * プロダクト：
 * antropofagia
-  * レポジトリ：
-  * プロダクト：
+  * レポジトリ： https://github.com/enpitut2019/noben-server 
+  * レポジトリ2: https://github.com/enpitut2019/noben-front
+  * プロダクト： https://noben-front.herokuapp.com/
 * HDD ~hobby driven develop~
-  * レポジトリ：
-  * プロダクト：
+  * レポジトリ： https://github.com/enpitut2019/hobbyshare
+  * プロダクト： https://hobbyshare.herokuapp.com/
+* シスコーン
+  * レポジトリ： https://github.com/enpitut2019/yatter
+  * プロダクト： 
 * Dr.B
-  * レポジトリ：
-  * プロダクト：
+  * レポジトリ： https://github.com/enpitut2019/medical-app-for-traveler
+  * プロダクト： 
 * 人（ぬるんちゅ）
-  * レポジトリ：
+  * レポジトリ： https://github.com/enpitut2019/NullTalk
   * プロダクト：
 * 面研IoT
-  * レポジトリ：
-  * プロダクト：
+  * レポジトリ： https://github.com/enpitut2019/Omote-IoT
+  * プロダクト： 
 * ふたりぼっち
-  * レポジトリ：
-  * プロダクト：
+  * レポジトリ： https://github.com/enpitut2019/Access-and-update-IoT
+  * プロダクト： 
