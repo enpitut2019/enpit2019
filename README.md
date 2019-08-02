@@ -33,7 +33,7 @@
   * プロダクト： https://hobbyshare.herokuapp.com/
 * シスコーン
   * レポジトリ： https://github.com/enpitut2019/yatter
-  * プロダクト： 
+  * プロダクト： http://siscorn-yatter.herokuapp.com/
 * Dr.B
   * レポジトリ： https://github.com/enpitut2019/medical-app-for-traveler
   * プロダクト： 
