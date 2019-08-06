@@ -17,7 +17,7 @@
   * プロダクト： https://enpitut2019.github.io/task-cabinet
 * 優柔不団
   * レポジトリ： https://github.com/enpitut2019/harahe
-  * プロダクト： 
+  * プロダクト：　（LINEアカウント） https://line.me/R/ti/p/%40036cidsf
 * 鳥貴族
   * レポジトリ： https://github.com/enpitut2019/shlack
   * プロダクト： 
