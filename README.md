@@ -23,7 +23,7 @@
   * プロダクト： 
 * 雨ニモ負ケs
   * レポジトリ： https://github.com/Arpedia/enPiT-Funbrella
-  * プロダクト：
+  * プロダクト： https://arpedia.github.io/enPiT-Funbrella/
 * antropofagia
   * レポジトリ： https://github.com/enpitut2019/noben-server 
   * レポジトリ2: https://github.com/enpitut2019/noben-front
