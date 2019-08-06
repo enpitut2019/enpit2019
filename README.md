@@ -8,7 +8,7 @@
   * プロダクト： https://yusaku.herokuapp.com/
 * アリになりたいキリギリス
   * レポジトリ： https://github.com/enpitut2019/enpit-grasshopper2
-  * プロダクト：
+  * プロダクト： https://intense-plains-65176.herokuapp.com/
 * タピオカオムライス
   * レポジトリ： https://github.com/enpitut2019/tapioca-omerice
   * プロダクト： https://tapiome.herokuapp.com
