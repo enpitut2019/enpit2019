@@ -4,8 +4,8 @@
   * レポジトリ： https://github.com/enpitut2019/churing
   * プロダクト： 
 * 優作
-  * レポジトリ： https://github.com/enpitut2019/project-TeamYusaku
-  * プロダクト：
+  * レポジトリ： https://github.com/enpitut2019/yusaku-app
+  * プロダクト： https://yusaku.herokuapp.com/
 * アリになりたいキリギリス
   * レポジトリ： https://github.com/enpitut2019/enpit-grasshopper2
   * プロダクト：
