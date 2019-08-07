@@ -10,7 +10,7 @@
   * リリース： https://github.com/enpitut2019/yusaku-app/releases
 * アリになりたいキリギリス　「アリキリ！」
   * レポジトリ： https://github.com/enpitut2019/enpit-grasshopper2
-  * プロダクト： https://intense-plains-65176.herokuapp.com/
+  * プロダクト： https://arikiri.herokuapp.com/
   * リリース： https://github.com/enpitut2019/enpit-grasshopper2/releases
 * タピオカオムライス　「ごっっはにゃさん」
   * レポジトリ： https://github.com/enpitut2019/tapioca-omerice
