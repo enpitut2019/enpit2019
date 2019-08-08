@@ -3,7 +3,7 @@
 * どんぐり 「駐ring」
   * レポジトリ： https://github.com/enpitut2019/churing
   * プロダクト： 
-  * リリース： https://github.com/enpitut2019/churing
+  * リリース： https://github.com/enpitut2019/churing/releases
 * 優作 「Yusaku-app(仮)」
   * レポジトリ： https://github.com/enpitut2019/yusaku-app
   * プロダクト： https://yusaku.herokuapp.com/
