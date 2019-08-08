@@ -4,7 +4,7 @@
   * レポジトリ： https://github.com/enpitut2019/churing
   * プロダクト： 
   * リリース： https://github.com/enpitut2019/churing/releases
-* 優作 「Yusaku-app(仮)」
+* 優作 「Yくん知ってる？」
   * レポジトリ： https://github.com/enpitut2019/yusaku-app
   * プロダクト： https://yusaku.herokuapp.com/
   * リリース： https://github.com/enpitut2019/yusaku-app/releases
