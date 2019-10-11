@@ -1,5 +1,45 @@
 # enpit2019
+* 旬のどんぐり　「webページに書き込みができる！」
+  * レポジトリ： https://github.com/enpitut2019/latest
+  * リリース：
+  * PBL: https://github.com/enpitut2019/latest/projects/1
+* antropofagia　「両片思いを無くす」
+  * レポジトリ： https://github.com/enpitut2019/AIDA-kari
+  * PBL: https://github.com/enpitut2019/AIDA-kari/projects/1
+* 優作　「音楽プレイリスト共有アプリケーション」
+  * レポジトリ： https://github.com/enpitut2019/dj-yusaku
+  * PBL: https://github.com/enpitut2019/dj-yusaku/projects/1
+* Dr.B　「医療機関向けの暗号通貨ペイメントサービス」
+  * レポジトリ： https://github.com/enpitut2019/MedicalPaymentService
+  * PBL：　https://github.com/enpitut2019/MedicalPaymentService/projects/1
+* 2人ぼっち　「信頼性が保証されるID管理サービス」
+  * レポジトリ： https://github.com/enpitut2019/Omote-IoT
+  * PBL: https://github.com/enpitut2019/Omote-IoT/projects/1
+* シスコーン　「サーベイをサクサクできるプラットフォーム」
+  * レポジトリ　https://github.com/enpitut2019/siscorn-neo
+  * PBL https://github.com/enpitut2019/siscorn-neo/projects/1
+* 茶葉のあまみ　「Task Cabinet」
+  * レポジトリ： https://github.com/enpitut2019/task-cabinet
+  * プロダクト： https://enpitut2019.github.io/task-cabinet
+  * リリース： https://github.com/enpitut2019/task-cabinet/releases
+* 優柔不団　「harahe」
+  * レポジトリ： https://github.com/enpitut2019/harahe
+  * プロダクト：（LINEアカウント） https://line.me/R/ti/p/%40036cidsf
+  * リリース： https://github.com/enpitut2019/harahe/releases
+* 鳥貴族 「Shlack」
+  * レポジトリ： https://github.com/enpitut2019/shlack
+  * プロダクト： 
+  * リリース： https://github.com/enpitut2019/shlack/releases
+* HDD - hobby driven develop 「hobbyshare」
+  * レポジトリ： https://github.com/enpitut2019/hobbyshare
+  * プロダクト： https://hobbyshare.herokuapp.com/
+  * リリース： https://github.com/enpitut2019/hobbyshare/releases
+* 2人ぼっち 「アクセス制御と自動アップデート」
+  * レポジトリ： https://github.com/enpitut2019/Access-and-update-IoT
+  * プロダクト： 
+  * リリース： https://github.com/enpitut2019/Access-and-update-IoT/releases
 
+## 夏合宿で終了したプロジェクト
 * どんぐり 「駐ring」
   * レポジトリ： https://github.com/enpitut2019/churing
   * プロダクト： 
@@ -16,18 +56,6 @@
   * レポジトリ： https://github.com/enpitut2019/tapioca-omerice
   * プロダクト： https://tapiome.herokuapp.com
   * リリース： https://github.com/enpitut2019/tapioca-omerice/releases
-* 茶葉のあまみ　「Task Cabinet」
-  * レポジトリ： https://github.com/enpitut2019/task-cabinet
-  * プロダクト： https://enpitut2019.github.io/task-cabinet
-  * リリース： https://github.com/enpitut2019/task-cabinet/releases
-* 優柔不団　「harahe」
-  * レポジトリ： https://github.com/enpitut2019/harahe
-  * プロダクト：（LINEアカウント） https://line.me/R/ti/p/%40036cidsf
-  * リリース： https://github.com/enpitut2019/harahe/releases
-* 鳥貴族 「Shlack」
-  * レポジトリ： https://github.com/enpitut2019/shlack
-  * プロダクト： 
-  * リリース： https://github.com/enpitut2019/shlack/releases
 * 雨ニモ負ケs 「Funbrella」
   * レポジトリ： https://github.com/Arpedia/enPiT-Funbrella
   * プロダクト： https://arpedia.github.io/enPiT-Funbrella/
@@ -37,10 +65,6 @@
   * レポジトリ2: https://github.com/enpitut2019/noben-front
   * プロダクト： https://noben-front.herokuapp.com/
   * リリース： https://github.com/enpitut2019/noben-server/releases
-* HDD - hobby driven develop 「hobbyshare」
-  * レポジトリ： https://github.com/enpitut2019/hobbyshare
-  * プロダクト： https://hobbyshare.herokuapp.com/
-  * リリース： https://github.com/enpitut2019/hobbyshare/releases
 * シスコーン 「Yatter」
   * レポジトリ： https://github.com/enpitut2019/yatter
   * プロダクト： http://siscorn-yatter.herokuapp.com/posts/show
@@ -57,7 +81,3 @@
   * レポジトリ： https://github.com/enpitut2019/Omote-IoT
   * プロダクト： 
   * リリース： https://github.com/enpitut2019/Omote-IoT/releases
-* 2人ぼっち 「アクセス制御と自動アップデート」
-  * レポジトリ： https://github.com/enpitut2019/Access-and-update-IoT
-  * プロダクト： 
-  * リリース： https://github.com/enpitut2019/Access-and-update-IoT/releases
