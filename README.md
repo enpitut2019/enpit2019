@@ -1,10 +1,20 @@
 # enpit2019
+* 人（ぬるんちゅ） - Sing
+  * レポジトリ： https://github.com/enpitut2019/Sing
+  * プロダクト： https://nulltalk.herokuapp.com/
+  * リリース： https://github.com/enpitut2019/Sing/releases
+  * PBL: https://github.com/enpitut2019/Sing/projects/2
+* 雨ニモ負ケs - RainPearl
+  * レポジトリ： https://github.com/enpitut2019/RainPearl
+  * リリース： https://github.com/enpitut2019/RainPearl/releases
+  * PBL: https://github.com/enpitut2019/RainPearl/projects/1
 * 旬のどんぐり　「webページに書き込みができる！」
   * レポジトリ： https://github.com/enpitut2019/latest
-  * リリース：
+  * リリース： https://github.com/enpitut2019/latest/releases
   * PBL: https://github.com/enpitut2019/latest/projects/1
 * antropofagia　「両片思いを無くす」
   * レポジトリ： https://github.com/enpitut2019/AIDA-kari
+  * リリース： https://github.com/enpitut2019/AIDA-kari/releases
   * PBL: https://github.com/enpitut2019/AIDA-kari/projects/1
 * 優作　「音楽プレイリスト共有アプリケーション」
   * レポジトリ： https://github.com/enpitut2019/dj-yusaku
@@ -16,8 +26,10 @@
   * レポジトリ： https://github.com/enpitut2019/Omote-IoT
   * PBL: https://github.com/enpitut2019/Omote-IoT/projects/1
 * シスコーン　「サーベイをサクサクできるプラットフォーム」
-  * レポジトリ　https://github.com/enpitut2019/siscorn-neo
-  * PBL https://github.com/enpitut2019/siscorn-neo/projects/1
+  * レポジトリ:　https://github.com/enpitut2019/catchapp
+  * プロダクト： https://heuristic-tesla-d0e7f2.netlify.com/
+  * リリース: https://github.com/enpitut2019/catchapp/releases
+  * PBL: https://github.com/enpitut2019/catchapp/projects/1
 * 茶葉のあまみ　「Task Cabinet」
   * レポジトリ： https://github.com/enpitut2019/task-cabinet
   * プロダクト： https://enpitut2019.github.io/task-cabinet
@@ -34,10 +46,17 @@
   * レポジトリ： https://github.com/enpitut2019/hobbyshare
   * プロダクト： https://hobbyshare.herokuapp.com/
   * リリース： https://github.com/enpitut2019/hobbyshare/releases
-* 2人ぼっち 「アクセス制御と自動アップデート」
-  * レポジトリ： https://github.com/enpitut2019/Access-and-update-IoT
-  * プロダクト： 
-  * リリース： https://github.com/enpitut2019/Access-and-update-IoT/releases
+* もみ - CleanReminder
+  * レポジトリ： https://github.com/enpitut2019/CleanReminder
+  * プロダクト：
+  * リリース：https://github.com/enpitut2019/CleanReminder/releases
+  * PBL: https://github.com/enpitut2019/CleanReminder/projects/2
+* じい - ShoppingReminder
+ * レポジトリ: https://github.com/enpitut2019/ShoppingReminder
+ * プロダクト：
+ * リリース：https://github.com/enpitut2019/ShoppingReminder/releases
+ * PBL: https://github.com/enpitut2019/ShoppingReminder/projects/1
+* 
 
 ## 夏合宿で終了したプロジェクト
 * どんぐり 「駐ring」
@@ -81,3 +100,7 @@
   * レポジトリ： https://github.com/enpitut2019/Omote-IoT
   * プロダクト： 
   * リリース： https://github.com/enpitut2019/Omote-IoT/releases
+* 2人ぼっち 「アクセス制御と自動アップデート」
+  * レポジトリ： https://github.com/enpitut2019/Access-and-update-IoT
+  * プロダクト： 
+  * リリース： https://github.com/enpitut2019/Access-and-update-IoT/releases
