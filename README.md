@@ -1,64 +1,73 @@
 # enpit2019
-* 人（ぬるんちゅ） - Sing
-  * レポジトリ： https://github.com/enpitut2019/Sing
+* 人（ぬるんちゅ） - ぬるカラオケ
+  * レポジトリ： https://github.com/enpitut2019/Sing, https://github.com/Kenta-Yamasawa/NullSing_Kenta
   * プロダクト： https://nulltalk.herokuapp.com/
   * リリース： https://github.com/enpitut2019/Sing/releases
   * PBL: https://github.com/enpitut2019/Sing/projects/2
-* 雨ニモ負ケs - RainPearl
+* 雨ニモ負ケs - Wal:l:lamp
   * レポジトリ： https://github.com/enpitut2019/RainPearl
   * リリース： https://github.com/enpitut2019/RainPearl/releases
   * PBL: https://github.com/enpitut2019/RainPearl/projects/1
-* 旬のどんぐり　「webページに書き込みができる！」
+* 旬のどんぐり　- latest.
   * レポジトリ： https://github.com/enpitut2019/latest
+  * プロダクト：http://bit.ly/2RgdiJs
   * リリース： https://github.com/enpitut2019/latest/releases
   * PBL: https://github.com/enpitut2019/latest/projects/1
-* antropofagia　「両片思いを無くす」
-  * レポジトリ： https://github.com/enpitut2019/AIDA-kari
+* Antropofagia　Linaria
+  * レポジトリ： https://github.com/enpitut2019/Linaria
   * リリース： https://github.com/enpitut2019/AIDA-kari/releases
   * PBL: https://github.com/enpitut2019/AIDA-kari/projects/1
-* 優作　「音楽プレイリスト共有アプリケーション」
+* 優作　Juke
   * レポジトリ： https://github.com/enpitut2019/dj-yusaku
+  * プロダクト： https://testflight.apple.com/join/EOWicJJ3
   * PBL: https://github.com/enpitut2019/dj-yusaku/projects/1
-* Dr.B　「医療機関向けの暗号通貨ペイメントサービス」
+* Dr.B　医療機関向けの暗号通貨ペイメントサービス
   * レポジトリ： https://github.com/enpitut2019/MedicalPaymentService
+  * プロダクト
+    * https://enpitut2019.github.io/MedicalPaymentService/hospital-client/dist/
+    * https://enpitut2019.github.io/MedicalPaymentService/patient-client/dist/
+    * https://enpitut2019.github.io/MedicalPaymentService/erc20token-sender/dist/
   * PBL：　https://github.com/enpitut2019/MedicalPaymentService/projects/1
-* 2人ぼっち　「信頼性が保証されるID管理サービス」
-  * レポジトリ： https://github.com/enpitut2019/Omote-IoT
-  * PBL: https://github.com/enpitut2019/Omote-IoT/projects/1
-* シスコーン　「サーベイをサクサクできるプラットフォーム」
-  * レポジトリ:　https://github.com/enpitut2019/catchapp
-  * プロダクト： https://heuristic-tesla-d0e7f2.netlify.com/
+* シスコーン　CatchApp (キャッチアップ)
+  * レポジトリ:　https://github.com/enpitut2019/catchapp https://github.com/enpitut2019/catchapp-front 
+  * プロダクト： https://catchapp.tk/
   * リリース: https://github.com/enpitut2019/catchapp/releases
   * PBL: https://github.com/enpitut2019/catchapp/projects/1
-* 茶葉のあまみ　「Task Cabinet」
-  * レポジトリ： https://github.com/enpitut2019/task-cabinet
-  * プロダクト： https://enpitut2019.github.io/task-cabinet
+* 茶葉のあまみ　Task Cabinet
+  * レポジトリ： https://github.com/enpitut2019/task-cabinet https://github.com/enpitut2019/task-cabinet-server-notification
+  * プロダクト： https://enpitut2019.github.io/task-cabinet/
   * リリース： https://github.com/enpitut2019/task-cabinet/releases
-* 優柔不団　「harahe」
-  * レポジトリ： https://github.com/enpitut2019/harahe
-  * プロダクト：（LINEアカウント） https://line.me/R/ti/p/%40036cidsf
-  * リリース： https://github.com/enpitut2019/harahe/releases
-* 鳥貴族 「Shlack」
+* 優柔不団　TPAR
+  * レポジトリ： https://github.com/enpitut2019/TPAR2
+* 鳥貴族 Shlack
   * レポジトリ： https://github.com/enpitut2019/shlack
-  * プロダクト： 
   * リリース： https://github.com/enpitut2019/shlack/releases
-* HDD - hobby driven develop 「hobbyshare」
+* HDD - hobbyshare
   * レポジトリ： https://github.com/enpitut2019/hobbyshare
   * プロダクト： https://hobbyshare.herokuapp.com/
   * リリース： https://github.com/enpitut2019/hobbyshare/releases
-* もみ - CleanReminder
+* momi - おそうじ管理くん
   * レポジトリ： https://github.com/enpitut2019/CleanReminder
-  * プロダクト：
+  * プロダクト： https://play.google.com/store/apps/details?id=com.DefaultCompany.cleanRemainder
   * リリース：https://github.com/enpitut2019/CleanReminder/releases
   * PBL: https://github.com/enpitut2019/CleanReminder/projects/2
-* じい - ShoppingReminder
+* じい - CanBuy!
  * レポジトリ: https://github.com/enpitut2019/ShoppingReminder
- * プロダクト：
+ * プロダクト： https://play.google.com/store/apps/details?id=com.ji.shoppingreminder
  * リリース：https://github.com/enpitut2019/ShoppingReminder/releases
  * PBL: https://github.com/enpitut2019/ShoppingReminder/projects/1
-* 
+ 
+## 準拠テーマ
+* ハローメロンパン - Ficle 
+  * プロダクト： https://ficle.herokuapp.com/
+* 鶏肉の海鮮丼 - Sound Sphere
+  * プロダクト： https://enpit.site/
+* お母さんの肉じゃが - Visual K
 
 ## 夏合宿で終了したプロジェクト
+* 2人ぼっち　「信頼性が保証されるID管理サービス」
+  * レポジトリ： https://github.com/enpitut2019/Omote-IoT
+  * PBL: https://github.com/enpitut2019/Omote-IoT/projects/1
 * どんぐり 「駐ring」
   * レポジトリ： https://github.com/enpitut2019/churing
   * プロダクト： 
